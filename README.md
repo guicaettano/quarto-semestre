@@ -1,6 +1,6 @@
-# Terceiro Semestre
+# Quarto Semestre
 
-Repositório para organizar todo o conteúdo do terceiro semestre da faculdade.
+Repositório para organizar todo o conteúdo do quarto semestre da faculdade.
 
 ## Disciplinas
 - Programação Declarativa
